@@ -1,5 +1,5 @@
 # Aplikasi-Login
-Sebuah aplikasi dengan fitur login.
+Sebuah aplikasi dengan fitur login - Studi Kasus Kelas Dicoding Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
 
 Alur Fitur Login:
 1. Memasukkan email dan password
